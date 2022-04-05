@@ -5,3 +5,10 @@
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
+html { 
+    background: url(images/shutterstock_1588906480.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
