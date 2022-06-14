@@ -1,10 +1,8 @@
-# This ReadMe is a work in progress!
+# This Project is a work in progress!
 
 
 
 Frontend Mentor - Interactive comments section solution
-
-
 
 
 
